@@ -1,0 +1,2 @@
+localhost:8080/clase08/formularios/frmproducto.php
+localhost:8080/phpmyadmin
